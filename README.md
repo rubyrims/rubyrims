@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @rubyrims
 - 👀 I’m interested in cybersec
-- 🌱 I’m currently learning Wardriving
-- 💞️ I’m looking to collaborate on hacking projects
-- 📫 DND Mode On
